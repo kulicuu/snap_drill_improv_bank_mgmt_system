@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+
+        "async": "latest",
+        "bluebird": "latest",
+        "lodash": "latest"
+    }
+}
